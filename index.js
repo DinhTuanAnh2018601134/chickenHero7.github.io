@@ -54,37 +54,6 @@ const app = {
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/3/6/9/83690ac46c2ba7cf46b153e6226c974d.jpg'
         },
     ],
-    getListSongs : function() {
-        var songsAPI = 'https://mp3.zing.vn/xhr/chart-realtime?songId=0&videoId=0&albumId=0&chart=song&time=-1';
-        var songsID = [];
-
-        // function Songs(name, author, thumbnail, path){
-        //     this.name = name;
-        //     this.author = author;
-        //     this.thumbnail = thumbnail;
-        //     this.path = path;
-        // }
-        fetch(songsAPI)
-        .then(res => {
-            return res.json();
-        })
-        .then((res) => {
-            let songs = res.data.song;
-            songs.map((song) => {
-                songsID.push(song.id);
-                let songPath = "http://api.mp3.zing.vn/api/streaming/audio/" + song.id + "/320";
-                let newSong = {
-                    name: song.name,
-                    singer: song.artists_names,
-                    path: songPath,
-                    image: song.thumbnail
-                }
-                this.songs.push(newSong);
-            })
-        });
-        console.log(songsID);
-        console.log(this.songs);
-    },
     setConfig: function(key, value) {
         this.config[key] = value;
         localStorage.setItem(PLAYER_STORAGE_KEY, JSON.stringify(this.config));
@@ -270,9 +239,6 @@ const app = {
     start: function() {
         //gan cau hinh tu config vao app
         this.loadConfig();
-
-        //get danh sach song
-        this.getListSongs();
 
         //dinh nghia cac thuoc tinh object
         this.defineProperties()
