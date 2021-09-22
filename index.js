@@ -26,31 +26,31 @@ const app = {
         {
             name: 'Sao Cũng Được',
             singer: 'Binz',
-            path: 'https://vnso-zn-15-tf-mp3-320s1-zmp3.zadn.vn/ca7f7f57a913404d1902/7573974072711764367?authen=exp=1632059328~acl=/ca7f7f57a913404d1902/*~hmac=130a9be669a0796558e1c1b6d3489b2b&fs=MTYzMTg4NjUyODIxMHx3ZWJWNnwxMDI1OTUyNDY0fDI3LjmUsICxLjg1LjE3MQ',
+            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZW9BZ680/320',
             image: 'https://photo-resize-zmp3.zadn.vn/w320_r1x1_png/covers/6/d/6d51904d4f03ee29a9e9164e3036857f_1520665277.png'
         },
         {
             name: 'Em Không Sai Chúng Ta Sai',
             singer: 'Erik',
-            path: 'https://mp3-320s1-zmp3.zadn.vn/1fef1cb50cf2e5acbce3/3770092767617317826?authen=exp=1632059749~acl=/1fef1cb50cf2e5acbce3/*~hmac=1f91b0edd1cfe9eaf244c44a4e4c9b42&fs=MTYzMTg4Njk0OTQxNXx3ZWJWNnwwfDExNS43OC4xMzQdUngMTk4',
+            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWBOWD78/320',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/0/d/740d5e0fd272d2421d441e9fd5c08fdd.jpg'
         },
         {
             name: 'Kẻ Điên Tin Vào Tình Yêu',
             singer: 'Lil Z',
-            path: 'https://mp3-320s1-zmp3.zadn.vn/38ec18adbeea57b40efb/129469551492633918?authen=exp=1632059748~acl=/38ec18adbeea57b40efb/*~hmac=55dc9479684eaf1f24cc70acab9938a2&fs=MTYzMTg4Njk0ODYzNXx3ZWJWNnwxMDUzMzU3NTIwfDExOC42OC4xMTUdUngMjI2',
+            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWDAEADE/320',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/9/f/6/69f621e3a5655a7c984664e893af70ab.jpg'
         },
         {
             name: 'Bông Hoa Đẹp Nhất',
             singer: 'Quân A.P',
-            path: 'https://mp3-320s1-zmp3.zadn.vn/49b21e374570ac2ef561/1499359916863826054?authen=exp=1632059704~acl=/49b21e374570ac2ef561/*~hmac=5468a0e6722e437956236d6b67fc27a3&fs=MTYzMTg4NjkwNDA2Nnx3ZWJWNnwxMDI1OTUyNDY0fDI3LjmUsICxLjg1LjE3MQ',
+            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWDZCE80/320',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/8/1/e/f81efd92fa9a3d52eb37f3b867ab9d32.jpg'
         },
         {
             name: 'Đánh Mất Em',
             singer: 'QDT',
-            path: 'https://mp3-320s1-zmp3.zadn.vn/9d2e24a56ce285bcdcf3/500599824594930489?authen=exp=1632059778~acl=/9d2e24a56ce285bcdcf3/*~hmac=aa632f0e4c3850b2abfd36ce42572dfe&fs=MTYzMTg4Njk3ODAxNnx3ZWJWNnwwfDExNS43NS41OC4xMTmUsIC',
+            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWDBBADB/320',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/3/6/9/83690ac46c2ba7cf46b153e6226c974d.jpg'
         },
     ],
