@@ -26,31 +26,31 @@ const app = {
         {
             name: 'Sao Cũng Được',
             singer: 'Binz',
-            path: 'http://vnno-zn-5-tf-mp3-s1-zmp3.zadn.vn/7945cb6d1d29f477ad38/4186214056268099099?authen=exp=1633272413~acl=/7945cb6d1d29f477ad38/*~hmac=7f9ba1a0da9105aa408c73cfa6d3d22c',
+            path: 'https://mp3-320s1-zmp3.zadn.vn/ca7f7f57a913404d1902/7573974072711764367?authen=exp=1633273711~acl=/ca7f7f57a913404d1902/*~hmac=8849714dcfd8bb03e886817c450a4a6e&fs=MTYzMzEwMDkxMTU0N3x3ZWJWNnwxMDI1OTUyNDY0fDI3LjmUsICxLjg0LjIwNw',
             image: 'https://photo-resize-zmp3.zadn.vn/w320_r1x1_png/covers/6/d/6d51904d4f03ee29a9e9164e3036857f_1520665277.png'
         },
         {
             name: 'Em Không Sai Chúng Ta Sai',
             singer: 'Erik',
-            path: 'http://vnno-vn-5-tf-mp3-s1-zmp3.zadn.vn/fc22f878e83f0161582e/5932759875015511356?authen=exp=1633272492~acl=/fc22f878e83f0161582e/*~hmac=92223b5eef78d59a2d800b11fc19004c',
+            path: 'https://mp3-320s1-zmp3.zadn.vn/1fef1cb50cf2e5acbce3/3770092767617317826?authen=exp=1633273695~acl=/1fef1cb50cf2e5acbce3/*~hmac=9d006c1096ca084d0c2be8ea1cfe2a1b&fs=MTYzMzEwMDg5NTEzNnx3ZWJWNnwwfDE0LjI1Mi4xMzQdUngODA',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/0/d/740d5e0fd272d2421d441e9fd5c08fdd.jpg'
         },
         {
             name: 'Kẻ Điên Tin Vào Tình Yêu',
             singer: 'Lil Z',
-            path: 'http://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/32a31ee2b8a551fb08b4/6058182952062798020?authen=exp=1633272507~acl=/32a31ee2b8a551fb08b4/*~hmac=7cb70e6c9dadb256a4c77ae817295181',
+            path: 'https://mp3-320s1-zmp3.zadn.vn/38ec18adbeea57b40efb/129469551492633918?authen=exp=1633273397~acl=/38ec18adbeea57b40efb/*~hmac=70cafa7cf6ad070f548833563829e9f2&fs=MTYzMzEwMDU5Nzk0MHx3ZWJWNnwwfDExNS43NS41NC4yMDU',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/9/f/6/69f621e3a5655a7c984664e893af70ab.jpg'
         },
         {
             name: 'Bông Hoa Đẹp Nhất',
             singer: 'Quân A.P',
-            path: 'http://vnno-zn-5-tf-mp3-s1-zmp3.zadn.vn/e5e2b567ee20077e5e31/9110927111613495727?authen=exp=1633272524~acl=/e5e2b567ee20077e5e31/*~hmac=81eb2ec6ffb7a6347db241f715bcc761',
+            path: 'https://mp3-320s1-zmp3.zadn.vn/49b21e374570ac2ef561/1499359916863826054?authen=exp=1633273461~acl=/49b21e374570ac2ef561/*~hmac=1069f85815f3c419188c422f5186ea4a&fs=MTYzMzEwMDY2MTQ5N3x3ZWJWNnwwfDE0LjE4Ni42OC4xNjY',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/8/1/e/f81efd92fa9a3d52eb37f3b867ab9d32.jpg'
         },
         {
             name: 'Đánh Mất Em',
             singer: 'QDT',
-            path: 'http://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/10dbaa50e2170b495206/5778850278162108473?authen=exp=1633272538~acl=/10dbaa50e2170b495206/*~hmac=e912b270d47675d1d4232000479e49a1',
+            path: 'https://mp3-320s1-zmp3.zadn.vn/9d2e24a56ce285bcdcf3/500599824594930489?authen=exp=1633273682~acl=/9d2e24a56ce285bcdcf3/*~hmac=39d75007942efa05ca5e5213c33cc46e&fs=MTYzMzEwMDg4Mjg4NHx3ZWJWNnwxMDIyNzQ1NzU3fDQyLjExOC4xMTIdUngMjQ0',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/3/6/9/83690ac46c2ba7cf46b153e6226c974d.jpg'
         },
     ],
