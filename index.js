@@ -26,31 +26,31 @@ const app = {
         {
             name: 'Sao Cũng Được',
             singer: 'Binz',
-            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZW9BZ680/320',
+            path: 'http://vnno-zn-5-tf-mp3-s1-zmp3.zadn.vn/7945cb6d1d29f477ad38/4186214056268099099?authen=exp=1633272413~acl=/7945cb6d1d29f477ad38/*~hmac=7f9ba1a0da9105aa408c73cfa6d3d22c',
             image: 'https://photo-resize-zmp3.zadn.vn/w320_r1x1_png/covers/6/d/6d51904d4f03ee29a9e9164e3036857f_1520665277.png'
         },
         {
             name: 'Em Không Sai Chúng Ta Sai',
             singer: 'Erik',
-            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWBOWD78/320',
+            path: 'http://vnno-vn-5-tf-mp3-s1-zmp3.zadn.vn/fc22f878e83f0161582e/5932759875015511356?authen=exp=1633272492~acl=/fc22f878e83f0161582e/*~hmac=92223b5eef78d59a2d800b11fc19004c',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/7/4/0/d/740d5e0fd272d2421d441e9fd5c08fdd.jpg'
         },
         {
             name: 'Kẻ Điên Tin Vào Tình Yêu',
             singer: 'Lil Z',
-            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWDAEADE/320',
+            path: 'http://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/32a31ee2b8a551fb08b4/6058182952062798020?authen=exp=1633272507~acl=/32a31ee2b8a551fb08b4/*~hmac=7cb70e6c9dadb256a4c77ae817295181',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/6/9/f/6/69f621e3a5655a7c984664e893af70ab.jpg'
         },
         {
             name: 'Bông Hoa Đẹp Nhất',
             singer: 'Quân A.P',
-            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWDZCE80/320',
+            path: 'http://vnno-zn-5-tf-mp3-s1-zmp3.zadn.vn/e5e2b567ee20077e5e31/9110927111613495727?authen=exp=1633272524~acl=/e5e2b567ee20077e5e31/*~hmac=81eb2ec6ffb7a6347db241f715bcc761',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/f/8/1/e/f81efd92fa9a3d52eb37f3b867ab9d32.jpg'
         },
         {
             name: 'Đánh Mất Em',
             singer: 'QDT',
-            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZWDBBADB/320',
+            path: 'http://vnno-vn-6-tf-mp3-s1-zmp3.zadn.vn/10dbaa50e2170b495206/5778850278162108473?authen=exp=1633272538~acl=/10dbaa50e2170b495206/*~hmac=e912b270d47675d1d4232000479e49a1',
             image: 'https://photo-resize-zmp3.zadn.vn/w240_r1x1_jpeg/cover/8/3/6/9/83690ac46c2ba7cf46b153e6226c974d.jpg'
         },
     ],
