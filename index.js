@@ -26,7 +26,7 @@ const app = {
         {
             name: 'Sao Cũng Được',
             singer: 'Binz',
-            path: 'https://mp3-320s1-zmp3.zadn.vn/ca7f7f57a913404d1902/7573974072711764367?authen=exp=1633273711~acl=/ca7f7f57a913404d1902/*~hmac=8849714dcfd8bb03e886817c450a4a6e&fs=MTYzMzEwMDkxMTU0N3x3ZWJWNnwxMDI1OTUyNDY0fDI3LjmUsICxLjg0LjIwNw',
+            path: 'http://api.mp3.zing.vn/api/streaming/audio/ZUWIB0AW/128',
             image: 'https://photo-resize-zmp3.zadn.vn/w320_r1x1_png/covers/6/d/6d51904d4f03ee29a9e9164e3036857f_1520665277.png'
         },
         {
